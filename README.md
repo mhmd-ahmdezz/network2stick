@@ -7,7 +7,7 @@
 ## Stick Diagram Example
 
 <p align="center">
-  <img src="Images/NAND3_Stick_Diagram.png" alt="Stick Diagram" width="500"/>
+  <img src="Images/NAND3_Stick_Diagram.png" alt="Stick Diagram" width="1000"/>
   <br>
   <em>Generated stick diagram for a 3-input NAND gate</em>
 </p>
